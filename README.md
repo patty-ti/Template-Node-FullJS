@@ -1,25 +1,33 @@
-# Gama Academy :)
+# Projeto Hiring Coders Gama Academy e VTEX :)
 ## Template Node FullJS
-
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
-
-Para instalar as dependências:
-`npm i`
-
-Para iniciar em modo de desenvolvimento:
-`npm start`
-
-## Aconselhado ter instalado NODEJS versão 14.x em diante.
 
 ## Aquitetura de componentes:
 
 `
- |src -> 
+ |--src 
+ |   |--assets
+ |   |--css
+ |   |--img
+ |   |--service
+ |   |--views
+ |   |--app.js
+ |   |--index.html
+ |   |--README.md
 `
 
-Para instalar o node [clique aqui](https://nodejs.org/en/)
+- [x] Para iniciar o projeto:
+`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+
+- [x] Para instalar as dependências:
+`npm i`
+
+- [x] Para iniciar em modo de desenvolvimento:
+`npm start`
+
+- [x] Aconselhado ter instalado NODEJS versão 14.x em diante.
+
+- [x] Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 Veja o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars.vercel.app/)
 
-## Professor Douglas Morais
+### Projeto desenvolvido com as aulas do Professor Douglas Morais
