@@ -28,6 +28,6 @@
 
 - [x] Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-Veja o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars.vercel.app/)
+Veja o projeto online [clique aqui](https://template-node-full-js-9jqj1e1yv-patty-ti.vercel.app)
 
 ### Projeto desenvolvido com as aulas do Professor Douglas Morais
